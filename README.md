@@ -12,7 +12,7 @@ Suppose we want to use the model after training to classify new mixtures:
 
   Then, have these two files in the directory python pointing at.
 
-  Finally, run Assignment2.ipynb:
+  Finally, run Jupyter Notebook.ipynb:
   1. will produce the results output inclued in the report in the notebook.
   2. and a new 'new_data' csv file with new column 'predicted compliance' containing results predicted by the best model recommended in the report.
 	note: this will replace the existing 'new_data' file at the beginning of the run. 
